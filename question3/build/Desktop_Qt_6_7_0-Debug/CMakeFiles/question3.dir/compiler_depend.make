@@ -7,6 +7,7 @@ CMakeFiles/question3.dir/main.cpp.o: /home/sambankmanfried/Documents/projects/co
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/q20memory.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/q20type_traits.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/q23utility.h \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qabstractitemmodel.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qalgorithms.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qanystringview.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qarraydata.h \
@@ -128,6 +129,7 @@ CMakeFiles/question3.dir/main.cpp.o: /home/sambankmanfried/Documents/projects/co
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qversiontagging.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qxptype_traits.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qyieldcpu.h \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/QStandardItemModel \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qaction.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qbitmap.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qbrush.h \
@@ -150,6 +152,7 @@ CMakeFiles/question3.dir/main.cpp.o: /home/sambankmanfried/Documents/projects/co
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qregion.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qrgb.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qrgba64.h \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qstandarditemmodel.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtgui-config.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtguiexports.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtguiglobal.h \
@@ -570,6 +573,7 @@ CMakeFiles/question3.dir/mainwindow.cpp.o: /home/sambankmanfried/Documents/proje
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qversiontagging.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qxptype_traits.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qyieldcpu.h \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/QStandardItemModel \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qaction.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qbitmap.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qbrush.h \
@@ -594,6 +598,7 @@ CMakeFiles/question3.dir/mainwindow.cpp.o: /home/sambankmanfried/Documents/proje
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qregion.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qrgb.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qrgba64.h \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qstandarditemmodel.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtextcursor.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtextdocument.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtextformat.h \
@@ -606,12 +611,14 @@ CMakeFiles/question3.dir/mainwindow.cpp.o: /home/sambankmanfried/Documents/proje
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qwindowdefs.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QApplication \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QGridLayout \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QHBoxLayout \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QHeaderView \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QLabel \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QLineEdit \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QMainWindow \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QMenuBar \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QPushButton \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QSpacerItem \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QSpinBox \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QStatusBar \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QTableView \
@@ -928,6 +935,7 @@ CMakeFiles/question3.dir/question3_autogen/mocs_compilation.cpp.o: question3_aut
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/q20memory.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/q20type_traits.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/q23utility.h \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qabstractitemmodel.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qalgorithms.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qanystringview.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qarraydata.h \
@@ -1042,6 +1050,7 @@ CMakeFiles/question3.dir/question3_autogen/mocs_compilation.cpp.o: question3_aut
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qversiontagging.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qxptype_traits.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qyieldcpu.h \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/QStandardItemModel \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qaction.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qbitmap.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qbrush.h \
@@ -1061,6 +1070,7 @@ CMakeFiles/question3.dir/question3_autogen/mocs_compilation.cpp.o: question3_aut
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qregion.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qrgb.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qrgba64.h \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qstandarditemmodel.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtgui-config.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtguiexports.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtguiglobal.h \
@@ -1380,6 +1390,8 @@ question3_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QSpinBox:
 
+/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QSpacerItem:
+
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QPushButton:
 
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QMenuBar:
@@ -1387,6 +1399,8 @@ question3_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QLineEdit:
 
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QLabel:
+
+/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QHBoxLayout:
 
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QGridLayout:
 
@@ -1403,10 +1417,6 @@ question3_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qmenubar.h:
 
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qregularexpression.h:
-
-question3_autogen/mocs_compilation.cpp:
-
-/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qabstractitemmodel.h:
 
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/QVariant:
 
@@ -1440,11 +1450,7 @@ question3_autogen/include/ui_mainwindow.h:
 
 /usr/include/x86_64-linux-gnu/bits/waitstatus.h:
 
-/usr/include/c++/11/bits/hashtable.h:
-
-/usr/include/c++/11/bits/hash_bytes.h:
-
-/usr/include/c++/11/bits/functional_hash.h:
+/usr/include/x86_64-linux-gnu/bits/uio_lim.h:
 
 /usr/include/c++/11/bits/functexcept.h:
 
@@ -1505,10 +1511,6 @@ question3_autogen/include/ui_mainwindow.h:
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtransform.h:
 
 /usr/include/c++/11/bits/atomic_base.h:
-
-/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qpolygon.h:
-
-/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtgui-config.h:
 
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qcontiguouscache.h:
 
@@ -1642,6 +1644,8 @@ question3_autogen/include/ui_mainwindow.h:
 
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qstringmatcher.h:
 
+/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qstringliteral.h:
+
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QWidget:
 
 /usr/include/c++/11/array:
@@ -1659,6 +1663,10 @@ question3_autogen/include/ui_mainwindow.h:
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qfloat16.h:
 
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qstringconverter_base.h:
+
+/usr/include/x86_64-linux-gnu/bits/typesizes.h:
+
+/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qarraydatapointer.h:
 
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qtwidgetsglobal.h:
 
@@ -1742,9 +1750,11 @@ question3_autogen/include/ui_mainwindow.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
 
-/usr/include/c++/11/bits/stringfwd.h:
+/usr/include/stdint.h:
 
-/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qgenericatomic.h:
+/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qcompare.h:
+
+/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qmath.h:
 
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qwindowdefs.h:
 
@@ -1754,19 +1764,29 @@ question3_autogen/include/ui_mainwindow.h:
 
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qline.h:
 
-/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qdebug.h:
+/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qglobal.h:
 
-/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qmetacontainer.h:
+/usr/include/c++/11/bits/localefwd.h:
 
-/usr/include/c++/11/bits/stl_function.h:
+/usr/include/c++/11/bits/stl_tree.h:
 
-/usr/include/c++/11/ext/atomicity.h:
+/usr/include/c++/11/limits:
 
-/usr/include/stdint.h:
+/usr/include/c++/11/tr1/beta_function.tcc:
 
-/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qcompare.h:
+/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qnumeric.h:
 
-/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qmath.h:
+/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtgui-config.h:
+
+/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qpolygon.h:
+
+/usr/include/c++/11/bits/hashtable.h:
+
+/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qlocale.h:
+
+/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qpoint.h:
+
+/usr/include/c++/11/bits/invoke.h:
 
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qeventloop.h:
 
@@ -1787,24 +1807,6 @@ question3_autogen/include/ui_mainwindow.h:
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractscrollarea.h:
 
 /home/sambankmanfried/Documents/projects/cos3711Assignments/question3/main.cpp:
-
-/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qglobal.h:
-
-/usr/include/c++/11/bits/localefwd.h:
-
-/usr/include/c++/11/bits/stl_tree.h:
-
-/usr/include/c++/11/limits:
-
-/usr/include/c++/11/tr1/beta_function.tcc:
-
-/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qnumeric.h:
-
-/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qlocale.h:
-
-/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qpoint.h:
-
-/usr/include/c++/11/bits/invoke.h:
 
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QStatusBar:
 
@@ -1830,7 +1832,19 @@ question3_autogen/include/ui_mainwindow.h:
 
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qpaintdevice.h:
 
+/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/QStandardItemModel:
+
+/usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
+
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/q20memory.h:
+
+/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qdebug.h:
+
+/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qmetacontainer.h:
+
+/usr/include/c++/11/bits/stl_function.h:
+
+/usr/include/c++/11/ext/atomicity.h:
 
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qshareddata.h:
 
@@ -1858,9 +1872,9 @@ question3_autogen/include/ui_mainwindow.h:
 
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qbasicatomic.h:
 
-/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qarraydatapointer.h:
+question3_autogen/mocs_compilation.cpp:
 
-/usr/include/x86_64-linux-gnu/bits/typesizes.h:
+/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qabstractitemmodel.h:
 
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qchar.h:
 
@@ -1982,7 +1996,13 @@ question3_autogen/include/ui_mainwindow.h:
 
 /usr/include/c++/11/ext/numeric_traits.h:
 
-/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qstringliteral.h:
+/usr/include/c++/11/bits/functional_hash.h:
+
+/usr/include/c++/11/bits/hash_bytes.h:
+
+/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qgenericatomic.h:
+
+/usr/include/c++/11/bits/stringfwd.h:
 
 /usr/include/c++/11/bits/hashtable_policy.h:
 
@@ -2053,6 +2073,8 @@ question3_autogen/include/ui_mainwindow.h:
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qstyleoption.h:
 
 /usr/include/c++/11/bits/stl_uninitialized.h:
+
+/home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qstandarditemmodel.h:
 
 /usr/include/c++/11/bits/stream_iterator.h:
 
@@ -2302,8 +2324,6 @@ question3_autogen/include/ui_mainwindow.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
-
 /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:
 
 /usr/include/c++/11/variant:
@@ -2319,5 +2339,3 @@ question3_autogen/include/ui_mainwindow.h:
 /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qlineedit.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/timer_t.h:
-
-/usr/include/x86_64-linux-gnu/bits/uio_lim.h:

@@ -4,6 +4,7 @@
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/q20memory.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/q20type_traits.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/q23utility.h \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qabstractitemmodel.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qalgorithms.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qanystringview.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qarraydata.h \
@@ -117,6 +118,7 @@
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qversiontagging.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qxptype_traits.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qyieldcpu.h \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/QStandardItemModel \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qaction.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qbitmap.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qbrush.h \
@@ -136,6 +138,7 @@
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qregion.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qrgb.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qrgba64.h \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qstandarditemmodel.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtgui-config.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtguiexports.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtguiglobal.h \

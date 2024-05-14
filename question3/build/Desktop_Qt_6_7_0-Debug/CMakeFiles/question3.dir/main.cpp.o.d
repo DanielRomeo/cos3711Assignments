@@ -367,6 +367,9 @@ CMakeFiles/question3.dir/main.cpp.o: \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qcursor.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qbitmap.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qtabwidget.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/QStandardItemModel \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qstandarditemmodel.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qabstractitemmodel.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QApplication \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qapplication.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qcoreapplication.h \

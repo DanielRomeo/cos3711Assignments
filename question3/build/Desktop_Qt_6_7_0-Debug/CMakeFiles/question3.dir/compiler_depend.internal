@@ -8,6 +8,7 @@ CMakeFiles/question3.dir/main.cpp.o
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/q20memory.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/q20type_traits.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/q23utility.h
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qabstractitemmodel.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qalgorithms.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qanystringview.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qarraydata.h
@@ -129,6 +130,7 @@ CMakeFiles/question3.dir/main.cpp.o
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qversiontagging.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qxptype_traits.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qyieldcpu.h
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/QStandardItemModel
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qaction.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qbitmap.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qbrush.h
@@ -151,6 +153,7 @@ CMakeFiles/question3.dir/main.cpp.o
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qregion.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qrgb.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qrgba64.h
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qstandarditemmodel.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtgui-config.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtguiexports.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtguiglobal.h
@@ -572,6 +575,7 @@ CMakeFiles/question3.dir/mainwindow.cpp.o
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qversiontagging.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qxptype_traits.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qyieldcpu.h
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/QStandardItemModel
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qaction.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qbitmap.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qbrush.h
@@ -596,6 +600,7 @@ CMakeFiles/question3.dir/mainwindow.cpp.o
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qregion.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qrgb.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qrgba64.h
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qstandarditemmodel.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtextcursor.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtextdocument.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtextformat.h
@@ -608,12 +613,14 @@ CMakeFiles/question3.dir/mainwindow.cpp.o
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qwindowdefs.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QApplication
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QGridLayout
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QHBoxLayout
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QHeaderView
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QLabel
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QLineEdit
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QMainWindow
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QMenuBar
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QPushButton
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QSpacerItem
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QSpinBox
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QStatusBar
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QTableView
@@ -931,6 +938,7 @@ CMakeFiles/question3.dir/question3_autogen/mocs_compilation.cpp.o
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/q20memory.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/q20type_traits.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/q23utility.h
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qabstractitemmodel.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qalgorithms.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qanystringview.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qarraydata.h
@@ -1045,6 +1053,7 @@ CMakeFiles/question3.dir/question3_autogen/mocs_compilation.cpp.o
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qversiontagging.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qxptype_traits.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qyieldcpu.h
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/QStandardItemModel
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qaction.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qbitmap.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qbrush.h
@@ -1064,6 +1073,7 @@ CMakeFiles/question3.dir/question3_autogen/mocs_compilation.cpp.o
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qregion.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qrgb.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qrgba64.h
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qstandarditemmodel.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtgui-config.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtguiexports.h
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtguiglobal.h

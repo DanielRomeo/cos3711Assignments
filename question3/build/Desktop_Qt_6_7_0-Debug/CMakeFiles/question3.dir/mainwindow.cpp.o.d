@@ -367,6 +367,9 @@ CMakeFiles/question3.dir/mainwindow.cpp.o: \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qcursor.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qbitmap.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qtabwidget.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/QStandardItemModel \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qstandarditemmodel.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qabstractitemmodel.h \
  /home/sambankmanfried/Documents/projects/cos3711Assignments/question3/build/Desktop_Qt_6_7_0-Debug/question3_autogen/include/./ui_mainwindow.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/QVariant \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qvariant.h \
@@ -396,7 +399,6 @@ CMakeFiles/question3.dir/mainwindow.cpp.o: \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractitemview.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractscrollarea.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qframe.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qabstractitemmodel.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qitemselectionmodel.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractitemdelegate.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qstyleoption.h \
