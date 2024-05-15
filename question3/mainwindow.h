@@ -2,9 +2,9 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-// #include <QtCore>
 #include <QStandardItemModel>
-
+#include <QStyledItemDelegate>
+#include "delegate.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -28,5 +28,6 @@ private slots:
 private:
     Ui::MainWindow *ui;
     QStandardItemModel *model;  // instantiate the model object
+    Delegate *mydelegate;
 };
 #endif // MAINWINDOW_H

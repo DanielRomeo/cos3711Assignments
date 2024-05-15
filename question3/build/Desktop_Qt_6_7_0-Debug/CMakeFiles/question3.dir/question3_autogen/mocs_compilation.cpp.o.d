@@ -1,10 +1,10 @@
 CMakeFiles/question3.dir/question3_autogen/mocs_compilation.cpp.o: \
  /home/sambankmanfried/Documents/projects/cos3711Assignments/question3/build/Desktop_Qt_6_7_0-Debug/question3_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/sambankmanfried/Documents/projects/cos3711Assignments/question3/build/Desktop_Qt_6_7_0-Debug/question3_autogen/EWIEGA46WW/moc_mainwindow.cpp \
- /home/sambankmanfried/Documents/projects/cos3711Assignments/question3/build/Desktop_Qt_6_7_0-Debug/question3_autogen/EWIEGA46WW/../../../../mainwindow.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QMainWindow \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qmainwindow.h \
+ /home/sambankmanfried/Documents/projects/cos3711Assignments/question3/build/Desktop_Qt_6_7_0-Debug/question3_autogen/EWIEGA46WW/moc_delegate.cpp \
+ /home/sambankmanfried/Documents/projects/cos3711Assignments/question3/build/Desktop_Qt_6_7_0-Debug/question3_autogen/EWIEGA46WW/../../../../delegate.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QStyledItemDelegate \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qstyleditemdelegate.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qtwidgetsglobal.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtguiglobal.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qglobal.h \
@@ -162,8 +162,8 @@ CMakeFiles/question3.dir/question3_autogen/mocs_compilation.cpp.o: \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtguiexports.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qtwidgets-config.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qtwidgetsexports.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qwidget.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qwindowdefs.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractitemdelegate.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qobject.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qobjectdefs.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qnamespace.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qtmetamacros.h \
@@ -214,7 +214,6 @@ CMakeFiles/question3.dir/question3_autogen/mocs_compilation.cpp.o: \
  /usr/include/c++/11/backward/auto_ptr.h \
  /usr/include/c++/11/pstl/glue_memory_defs.h \
  /usr/include/c++/11/pstl/execution_defs.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qobject.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qstring.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qchar.h \
  /usr/include/c++/11/functional /usr/include/c++/11/bits/std_function.h \
@@ -318,8 +317,34 @@ CMakeFiles/question3.dir/question3_autogen/mocs_compilation.cpp.o: \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qbindingstorage.h \
  /usr/include/c++/11/chrono /usr/include/c++/11/ratio \
  /usr/include/c++/11/ctime \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qmargins.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qstyleoption.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qlocale.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qvariant.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qdebug.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qtextstream.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qcontiguouscache.h \
+ /usr/include/c++/11/climits \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
+ /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+ /usr/include/linux/limits.h \
+ /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qsharedpointer.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qshareddata.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qsharedpointer_impl.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qmap.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qshareddata_impl.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qset.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qhash.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qvarlengtharray.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/q23utility.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractspinbox.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qwidget.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qwindowdefs.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qmargins.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qaction.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qkeysequence.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qicon.h \
@@ -331,33 +356,12 @@ CMakeFiles/question3.dir/question3_autogen/mocs_compilation.cpp.o: \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qcolor.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qrgb.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qrgba64.h \
- /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
- /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
- /usr/include/x86_64-linux-gnu/bits/local_lim.h \
- /usr/include/linux/limits.h \
- /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
- /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
- /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qshareddata.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qimage.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qpixelformat.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtransform.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qpolygon.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qregion.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qline.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qvariant.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qdebug.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qtextstream.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qcontiguouscache.h \
- /usr/include/c++/11/climits \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qsharedpointer.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qsharedpointer_impl.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qmap.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qshareddata_impl.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qset.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qhash.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qvarlengtharray.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qpalette.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qbrush.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qfont.h \
@@ -367,8 +371,25 @@ CMakeFiles/question3.dir/question3_autogen/mocs_compilation.cpp.o: \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qsizepolicy.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qcursor.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qbitmap.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qvalidator.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qregularexpression.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qslider.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractslider.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qstyle.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qtabbar.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qtabwidget.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qrubberband.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qframe.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qabstractitemmodel.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QItemDelegate \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qitemdelegate.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/QObject \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qobject.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qtmochelpers.h \
+ /home/sambankmanfried/Documents/projects/cos3711Assignments/question3/build/Desktop_Qt_6_7_0-Debug/question3_autogen/EWIEGA46WW/moc_mainwindow.cpp \
+ /home/sambankmanfried/Documents/projects/cos3711Assignments/question3/build/Desktop_Qt_6_7_0-Debug/question3_autogen/EWIEGA46WW/../../../../mainwindow.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QMainWindow \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qmainwindow.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/QStandardItemModel \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qstandarditemmodel.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qabstractitemmodel.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qtmochelpers.h
+ /home/sambankmanfried/Documents/projects/cos3711Assignments/question3/build/Desktop_Qt_6_7_0-Debug/question3_autogen/EWIEGA46WW/../../../../delegate.h

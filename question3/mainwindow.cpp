@@ -6,15 +6,18 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+    mydelegate = new Delegate(this);
 
     // instatiate the model:
     model = new QStandardItemModel(this);
     model->setHorizontalHeaderLabels({"Composer", "Album title", "Replacement Cost", "Rating"}); // Set column headers
 
+    // set model and delegate in UI:
     ui->tableView->setModel(model);
+    ui->tableView->setItemDelegate(mydelegate);
 
     // create QList that will serve as rows:
-    QList<QStandardItem*> row1 ;
+    QList<QStandardItem*> row1;
 
     // a list of composer, album title ... etc
     row1.append(new QStandardItem(QString("Dr Dre"))); // producer
@@ -53,16 +56,19 @@ void MainWindow::on_pushButton_clicked()
     int replacementCost = ui->spinBox->value();
     int rating = ui->spinBox_2->value();
 
+    qDebug() << replacementCost;
+
     // create a list and add the rows:
+    // Note that we need to convert the numbers to string, to display them:
     QList<QStandardItem*> row;
     row.append(new QStandardItem(composer));
     row.append(new QStandardItem(albumTitle));
-    row.append(new QStandardItem(replacementCost));
-    row.append(new QStandardItem(rating));
+    row.append(new QStandardItem(QString::number(replacementCost)));
+    row.append(new QStandardItem(QString::number(rating)));
 
     model->appendRow(row);
 
-
+    qDebug() << row ;
 
 }
 

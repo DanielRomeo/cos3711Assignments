@@ -370,6 +370,25 @@ CMakeFiles/question3.dir/mainwindow.cpp.o: \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/QStandardItemModel \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qstandarditemmodel.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qabstractitemmodel.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QStyledItemDelegate \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qstyleditemdelegate.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractitemdelegate.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qstyleoption.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qlocale.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractspinbox.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qvalidator.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qregularexpression.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qslider.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractslider.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qstyle.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qtabbar.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qrubberband.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qframe.h \
+ /home/sambankmanfried/Documents/projects/cos3711Assignments/question3/delegate.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QItemDelegate \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qitemdelegate.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/QObject \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qobject.h \
  /home/sambankmanfried/Documents/projects/cos3711Assignments/question3/build/Desktop_Qt_6_7_0-Debug/question3_autogen/include/./ui_mainwindow.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/QVariant \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qvariant.h \
@@ -384,7 +403,6 @@ CMakeFiles/question3.dir/mainwindow.cpp.o: \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qcoreapplication_platform.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qguiapplication.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qinputmethod.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qlocale.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qguiapplication_platform.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QGridLayout \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qgridlayout.h \
@@ -398,18 +416,7 @@ CMakeFiles/question3.dir/mainwindow.cpp.o: \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qheaderview.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractitemview.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractscrollarea.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qframe.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qitemselectionmodel.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractitemdelegate.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qstyleoption.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractspinbox.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qvalidator.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qregularexpression.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qslider.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractslider.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qstyle.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qtabbar.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qrubberband.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QLabel \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qlabel.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qpicture.h \

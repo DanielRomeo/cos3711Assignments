@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/sambankmanfried/Documents/projects/cos3711Assignments/question3/delegate.cpp" "CMakeFiles/question3.dir/delegate.cpp.o" "gcc" "CMakeFiles/question3.dir/delegate.cpp.o.d"
   "/home/sambankmanfried/Documents/projects/cos3711Assignments/question3/main.cpp" "CMakeFiles/question3.dir/main.cpp.o" "gcc" "CMakeFiles/question3.dir/main.cpp.o.d"
   "/home/sambankmanfried/Documents/projects/cos3711Assignments/question3/mainwindow.cpp" "CMakeFiles/question3.dir/mainwindow.cpp.o" "gcc" "CMakeFiles/question3.dir/mainwindow.cpp.o.d"
   "/home/sambankmanfried/Documents/projects/cos3711Assignments/question3/build/Desktop_Qt_6_7_0-Debug/question3_autogen/mocs_compilation.cpp" "CMakeFiles/question3.dir/question3_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/question3.dir/question3_autogen/mocs_compilation.cpp.o.d"

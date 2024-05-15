@@ -1,6 +1,5 @@
-/home/sambankmanfried/Documents/projects/cos3711Assignments/question3/build/Desktop_Qt_6_7_0-Debug/question3_autogen/EWIEGA46WW/moc_mainwindow.cpp: /home/sambankmanfried/Documents/projects/cos3711Assignments/question3/mainwindow.h \
+/home/sambankmanfried/Documents/projects/cos3711Assignments/question3/build/Desktop_Qt_6_7_0-Debug/question3_autogen/EWIEGA46WW/moc_delegate.cpp: /home/sambankmanfried/Documents/projects/cos3711Assignments/question3/delegate.h \
   /home/sambankmanfried/Documents/projects/cos3711Assignments/question3/build/Desktop_Qt_6_7_0-Debug/question3_autogen/moc_predefs.h \
-  /home/sambankmanfried/Documents/projects/cos3711Assignments/question3/delegate.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/QObject \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/q20functional.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/q20memory.h \
@@ -122,7 +121,6 @@
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qversiontagging.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qxptype_traits.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qyieldcpu.h \
-  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/QStandardItemModel \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qaction.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qbitmap.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qbrush.h \
@@ -142,7 +140,6 @@
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qregion.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qrgb.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qrgba64.h \
-  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qstandarditemmodel.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtgui-config.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtguiexports.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtguiglobal.h \
@@ -150,14 +147,12 @@
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qvalidator.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qwindowdefs.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QItemDelegate \
-  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QMainWindow \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QStyledItemDelegate \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractitemdelegate.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractslider.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractspinbox.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qframe.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qitemdelegate.h \
-  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qmainwindow.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qrubberband.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qsizepolicy.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qslider.h \
