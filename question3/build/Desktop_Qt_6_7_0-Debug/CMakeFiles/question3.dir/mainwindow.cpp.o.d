@@ -384,6 +384,11 @@ CMakeFiles/question3.dir/mainwindow.cpp.o: \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qtabbar.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qrubberband.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qframe.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QHeaderView \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qheaderview.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractitemview.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractscrollarea.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qitemselectionmodel.h \
  /home/sambankmanfried/Documents/projects/cos3711Assignments/question3/delegate.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QItemDelegate \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qitemdelegate.h \
@@ -413,10 +418,6 @@ CMakeFiles/question3.dir/mainwindow.cpp.o: \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QHBoxLayout \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qboxlayout.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QHeaderView \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qheaderview.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractitemview.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractscrollarea.h \
- /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qitemselectionmodel.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QLabel \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qlabel.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qpicture.h \

@@ -11,6 +11,9 @@ MainWindow::MainWindow(QWidget *parent)
     // instatiate the model:
     model = new QStandardItemModel(this);
     model->setHorizontalHeaderLabels({"Composer", "Album title", "Replacement Cost", "Rating"}); // Set column headers
+    ui->tableView->horizontalHeader()->setSectionResizeMode(QHeaderView::Stretch);
+    ui->tableView->horizontalHeader()->setStretchLastSection(true); // setting the remaining space avaliable to the last section
+
 
     // set model and delegate in UI:
     ui->tableView->setModel(model);

@@ -4,6 +4,7 @@
 #include <QMainWindow>
 #include <QStandardItemModel>
 #include <QStyledItemDelegate>
+#include <QHeaderView>
 #include "delegate.h"
 
 QT_BEGIN_NAMESPACE

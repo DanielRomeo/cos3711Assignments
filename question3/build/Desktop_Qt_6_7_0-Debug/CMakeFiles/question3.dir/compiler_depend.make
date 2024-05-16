@@ -503,6 +503,7 @@ CMakeFiles/question3.dir/main.cpp.o: /home/sambankmanfried/Documents/projects/co
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qhash.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qhashfunctions.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qiodevicebase.h \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qitemselectionmodel.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qiterable.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qiterator.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qlatin1stringview.h \
@@ -609,14 +610,18 @@ CMakeFiles/question3.dir/main.cpp.o: /home/sambankmanfried/Documents/projects/co
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qvalidator.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qwindowdefs.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QApplication \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QHeaderView \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QItemDelegate \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QMainWindow \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QStyledItemDelegate \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractitemdelegate.h \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractitemview.h \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractscrollarea.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractslider.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractspinbox.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qapplication.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qframe.h \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qheaderview.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qitemdelegate.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qmainwindow.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qrubberband.h \
@@ -1449,6 +1454,7 @@ CMakeFiles/question3.dir/question3_autogen/mocs_compilation.cpp.o: question3_aut
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qhash.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qhashfunctions.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qiodevicebase.h \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qitemselectionmodel.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qiterable.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qiterator.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qlatin1stringview.h \
@@ -1551,13 +1557,17 @@ CMakeFiles/question3.dir/question3_autogen/mocs_compilation.cpp.o: question3_aut
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qtransform.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qvalidator.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qwindowdefs.h \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QHeaderView \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QItemDelegate \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QMainWindow \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QStyledItemDelegate \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractitemdelegate.h \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractitemview.h \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractscrollarea.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractslider.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractspinbox.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qframe.h \
+  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qheaderview.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qitemdelegate.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qmainwindow.h \
   /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qrubberband.h \

@@ -392,4 +392,9 @@ CMakeFiles/question3.dir/question3_autogen/mocs_compilation.cpp.o: \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qmainwindow.h \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/QStandardItemModel \
  /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtGui/qstandarditemmodel.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/QHeaderView \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qheaderview.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractitemview.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractscrollarea.h \
+ /home/sambankmanfried/Qt/6.7.0/gcc_64/include/QtCore/qitemselectionmodel.h \
  /home/sambankmanfried/Documents/projects/cos3711Assignments/question3/build/Desktop_Qt_6_7_0-Debug/question3_autogen/EWIEGA46WW/../../../../delegate.h
